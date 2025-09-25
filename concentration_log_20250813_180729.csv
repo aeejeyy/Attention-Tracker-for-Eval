@@ -1,0 +1,1 @@
+timestamp,concentration_score,gaze_score,head_pose_score,blink_detected,distraction_count,avg_ear,status,blink_rate_per_min,head_movement_intensity,gaze_stability,mouth_openness,eyebrow_raise,face_tilt,session_focus_time,session_distraction_time,total_session_blinks
